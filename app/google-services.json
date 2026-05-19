@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579780376049",
+    "project_id": "namma-raste-health",
+    "storage_bucket": "namma-raste-health.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579780376049:android:76be76aacfe54298fa0050",
+        "android_client_info": {
+          "package_name": "com.nammaraste.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjaBgBsrnzwtcT_iv_M0dESrgiwtY5_2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
